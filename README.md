@@ -1,11 +1,4 @@
-# こんにちは 👋 Akwaaba! I'm Bismark Kwabena Boampong
-
-<div align="center">
-  
-_"Combining Ghanaian innovation with Japanese precision"_ 🇬🇭 ✖️ 🎌
-
-</div>
-
+# こんにちは 👋  I'm Bismark Kwabena Boampong
 ## 🌟 About Me
 ```python
 bismark = {
