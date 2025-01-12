@@ -1,13 +1,24 @@
 # こんにちは 👋  I'm Bismark Kwabena Boampong
+
+
+
 ## 🌟 About Me
 ```python
 bismark = {
-    "role": "Full Stack Developer",
+    "role": "Full Stack Developer & Freelancer",
     "location": "Accra, Ghana",
-    "interests": ["AI", "Computer Vision", "Web3"],
-    "currently": "Building innovative solutions with a blend of African creativity"
+    "passion": "Robotics & AI",
+    "interests": ["Computer Vision", "IOT PROJECTS", "Web3"],
+    "currently": "Building innovative solutions while exploring the frontiers of robotics",
 }
 ```
+
+## 🤖 Robotics Journey
+- 3D Printing & CAD Design
+- Drone Development
+- Arduino and RaspberryPi Programming
+- Motor Control Systems
+- Computer Vision Integration
 
 ## 🛠️ Technology Garden
 ```
@@ -15,15 +26,17 @@ bismark = {
 🌿 Backend      | Node.js | Express.js | Python
 🎋 Database     | MongoDB | Firebase | MySQL
 🌳 Specialized  | OpenCV | TensorFlow | WebSockets
+🎌 Hardware     | Arduino | ESC | GSM Modules | Sensors
 ```
 
 ## 📊 Projects Showcase
 
 ### 🏯 Featured Works
-- **TicketsROOM** - A marketplace bridging events and attendees
-- **Hand Gesture Recognition Game** - Where traditional gaming meets AI
-- **ISS & Mars Explorer** - Bringing space exploration closer to Africa
-- **FoodStore Manager** - Empowering local businesses with modern tech
+- **Hand Gesture Recognition Game** - AI-powered gaming innovation
+- **Drone Development** - Custom UAV solutions with ESC integration
+- **TicketsROOM** - Modern event marketplace platform
+- **ISS & Mars Explorer** - Space exploration visualization
+- **SMS-controlled Flag System** - IoT automation with GSM
 
 ## 🎨 Recent Innovations
 
@@ -35,9 +48,17 @@ bismark = {
 </div>
 
 ## 🌺 Professional Journey
-- **Phronlytne Technologies** - Full-Stack Developer
-- **KidAtHome** - STEM Education Facilitator
-- **KODON Foundation** - Frontend Developer
+```javascript
+const experience = {
+  current: "Freelance Full Stack Developer & Robotics Enthusiast",
+  previous: [
+    "Phronlytne Technologies - Full-Stack Developer",
+    "KidAtHome - STEM Education Facilitator",
+    "KODON Foundation - Frontend Developer"
+  ],
+  education: "BSc Electrical/Electronic Engineering - KNUST"
+}
+```
 
 ## 🎋 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
@@ -48,5 +69,7 @@ bismark = {
 <div align="center">
 
 *"Medaase for visiting my profile! ありがとうございます"* 🙏
+
+*Available for freelance projects and robotics collaborations*
 
 </div>
