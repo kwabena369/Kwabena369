@@ -2,7 +2,7 @@
 
 # 技術者 Bismark Kwabena Boampong
 
-*Full Stack Developer & Robotics Engineer*
+*Aspiring Full Stack Developer & Robotics Engineer*
 
 ```ascii
 システム アーキテクト | SYSTEM ARCHITECT
