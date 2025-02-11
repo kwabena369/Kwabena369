@@ -1,20 +1,17 @@
 <div align="center">
 
-# ⋆｡°✩ Bismark Kwabena Boampong ✩°｡⋆
+# 技術者 Bismark Kwabena Boampong
 
-*Building dreams in code, one pixel at a time*
+*Full Stack Developer & Robotics Engineer*
 
 ```ascii
-. · ⋆ ·  🌙  · ⋆ · 
-  Wandering through the digital cosmos
-     as a Full Stack Developer
-        & Robotics Dreamer
-· ⋆ ·  ⭐  · ⋆ · 
+システム アーキテクト | SYSTEM ARCHITECT
+        Accra, Ghana
 ```
 
-[![Portfolio](https://img.shields.io/badge/✧-Portfolio-b3a5d9?style=for-the-badge&logoColor=white)](https://anotherone-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/✧-LinkedIn-8e9aaf?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/bismark-kwabena-049a9b322/)
-[![Email](https://img.shields.io/badge/✧-Email-c9b6e4?style=for-the-badge&logoColor=white)](mailto:bismarkkwabenaboampong@gmail.com)
+[![Portfolio](https://img.shields.io/badge/作品集-Portfolio-7c96ab?style=for-the-badge&logoColor=white)](https://anotherone-one.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/連絡先-LinkedIn-687b8c?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/bismark-kwabena-049a9b322/)
+[![Email](https://img.shields.io/badge/メール-Email-536878?style=for-the-badge&logoColor=white)](mailto:bismarkkwabenaboampong@gmail.com)
 
 </div>
 
@@ -22,91 +19,87 @@
 
 <div align="center">
 
-## ✧ Essence ✧
+## 技術スタック | Tech Stack
 
 </div>
 
 ```python
-soul = {
-    "location": "Accra, Ghana | Under the same stars as you",
-    "essence": "Full Stack Developer & Digital Artisan",
-    "dreams": "Crafting AI & Robotics poetry",
-    "whispers": ["Computer Vision", "IoT Enchantments", "Web3 Mysteries"],
+tech_profile = {
+    "role": "Full Stack Developer",
+    "focus": ["AI Development", "Robotics Engineering"],
+    "specialization": "Computer Vision & IoT Systems",
+    "current_projects": ["Autonomous Systems", "Web3", "Machine Learning"],
+}
+```
+
+<details>
+<summary>フロントエンド | Frontend</summary>
+
+![React](https://img.shields.io/badge/React-7c96ab?style=for-the-badge&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-687b8c?style=for-the-badge&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-536878?style=for-the-badge&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-445566?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details>
+<summary>バックエンド | Backend</summary>
+
+![Node.js](https://img.shields.io/badge/Node.js-7c96ab?style=for-the-badge&logoColor=white)
+![Express](https://img.shields.io/badge/Express-687b8c?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-536878?style=for-the-badge&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-445566?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details>
+<summary>ハードウェア | Hardware</summary>
+
+![Arduino](https://img.shields.io/badge/Arduino-7c96ab?style=for-the-badge&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-687b8c?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-536878?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-445566?style=for-the-badge&logoColor=white)
+
+</details>
+
+<div align="center">
+
+## プロジェクト | Projects
+
+</div>
+
+```javascript
+const projects = {
+  current: [
+    {
+      name: "Computer Vision System",
+      tech: ["OpenCV", "TensorFlow", "Python"],
+      type: "Hand Gesture Recognition"
+    },
+    {
+      name: "Autonomous Drone",
+      tech: ["C++", "ROS", "Custom ESC"],
+      type: "UAV Development"
+    },
+    {
+      name: "TicketsROOM",
+      tech: ["Next.js", "Node.js", "MongoDB"],
+      type: "Event Platform"
+    },
+    {
+      name: "Space Explorer",
+      tech: ["Three.js", "WebGL", "React"],
+      type: "3D Visualization"
+    }
+  ]
 }
 ```
 
 <div align="center">
 
-## ✧ Digital Spells ✧
+## 統計 | Statistics
 
-*『 Languages that weave reality 』*
-
-</div>
-
-<details>
-<summary>✧ Frontend Enchantments</summary>
-
-![React](https://img.shields.io/badge/⋆-React-d4bfff?style=for-the-badge&logoColor=white)
-![Next.js](https://img.shields.io/badge/⋆-Next.js-b3a5d9?style=for-the-badge&logoColor=white)
-![Vue.js](https://img.shields.io/badge/⋆-Vue.js-c9b6e4?style=for-the-badge&logoColor=white)
-![Flutter](https://img.shields.io/badge/⋆-Flutter-8e9aaf?style=for-the-badge&logoColor=white)
-
-</details>
-
-<details>
-<summary>✧ Backend Sorcery</summary>
-
-![Node.js](https://img.shields.io/badge/⋆-Node.js-d4bfff?style=for-the-badge&logoColor=white)
-![Express](https://img.shields.io/badge/⋆-Express-b3a5d9?style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/⋆-MongoDB-c9b6e4?style=for-the-badge&logoColor=white)
-![Firebase](https://img.shields.io/badge/⋆-Firebase-8e9aaf?style=for-the-badge&logoColor=white)
-
-</details>
-
-<details>
-<summary>✧ Hardware Dreams</summary>
-
-![Arduino](https://img.shields.io/badge/⋆-Arduino-d4bfff?style=for-the-badge&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/⋆-Raspberry%20Pi-b3a5d9?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/⋆-OpenCV-c9b6e4?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/⋆-TensorFlow-8e9aaf?style=for-the-badge&logoColor=white)
-
-</details>
-
-<div align="center">
-
-## ✧ Ethereal Creations ✧
-
-*『 Projects that fade into dreams 』*
-
-</div>
-
-```javascript
-const dreamscape = [
-  {
-    name: "Hand Gesture Recognition",
-    essence: "Teaching machines to read the poetry of human movement"
-  },
-  {
-    name: "Autonomous Drone Symphony",
-    essence: "Dancing with the wind through digital consciousness"
-  },
-  {
-    name: "TicketsROOM",
-    essence: "Portals to moments waiting to be lived"
-  },
-  {
-    name: "Space Explorer",
-    essence: "Walking among stars, one pixel at a time"
-  }
-]
-```
-
-<div align="center">
-
-## ✧ Crystallized Memories ✧
-
-![Ethereal Stats](https://github-readme-stats.vercel.app/api?username=kwabena369&show_icons=true&theme=material-palenight&bg_color=193549&title_color=c9b6e4&text_color=d4bfff&icon_color=b3a5d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kwabena369&show_icons=true&theme=city_lights&bg_color=0d1117&title_color=7c96ab&text_color=ffffff&icon_color=687b8c)
 
 </div>
 
@@ -114,13 +107,31 @@ const dreamscape = [
 
 <div align="center">
 
-*"Medaase for drifting through my digital dreams | ありがとうございます"* 
+## 経験 | Experience
+
+</div>
+
+```python
+experience = {
+    "current": "Freelance Full Stack Developer",
+    "previous": [
+        "Phronlytne Technologies - Full-Stack Developer",
+        "KidAtHome - STEM Education Facilitator",
+        "KODON Foundation - Frontend Developer"
+    ],
+    "education": "BSc Electrical/Electronic Engineering - KNUST"
+}
+```
+
+<div align="center">
+
+---
+
+*"Medaase for visiting | ありがとうございます"* 
 
 ```ascii
-· * . · ⋆ · 
-  Available for collaborative dreaming
-    and ethereal project crafting
-· ⋆ · * . · 
+オープン・フォー・コラボレーション
+Open for Collaboration
 ```
 
 </div>
