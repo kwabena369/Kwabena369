@@ -1,6 +1,14 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B9CF&center=true&vCenter=true&width=940&lines=Welcome+to+Bismark+Kwabena's+Tech+Universe+🚀" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B9CF&center=true&vCenter=true&width=940&lines=ようこそ+|+Bismark-san's+Digital+Dojo+⛩️" alt="Typing SVG" />
+
+```ascii
+  ___________________________
+ |                           |
+ |  はじめまして (Hajimemashite)  |
+ |      私はBismarkです         |
+ |___________________________|
+```
 
 <a href="https://anotherone-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-A9B9CF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
@@ -18,10 +26,10 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Robotics+Engineer;STEM+Educator;Innovation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=フリーランス+|+Freelance+Full+Stack+Developer;ロボット工学+|+Robotics+Engineer;教育者+|+STEM+Educator;革新者+|+Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🎓 Education
+## 学歴 | Education
 
 ```typescript
 const education = {
@@ -36,42 +44,42 @@ const education = {
 }
 ```
 
-## 💼 Professional Journey
+## 職歴 | Professional Journey
 
 <details>
-<summary>Current Position 🚀</summary>
+<summary>現在の役割 | Current Role 🚀</summary>
 
-### Phronyltne Technologies | Full-Stack Developer
-- 🛠️ Developed high-performance POS system
-- 🔧 Optimized server infrastructure
-- 🎨 3D modeling & printing with Blender
-- ✈️ Enhanced drone systems with brushless motors
+### フリーランス | Freelance Full Stack Developer
+- 🌐 Developing custom web and mobile solutions
+- 🤖 Specializing in AI and robotics integration
+- 🔧 Hardware-software system development
+- 📊 Data-driven application architecture
 
 </details>
 
 <details>
-<summary>Previous Roles 📈</summary>
+<summary>過去の経験 | Previous Experience 📈</summary>
 
 ### KidAtHome | STEM Education Facilitator
-- 💻 Website & mobile app optimization
-- 🤖 LEGO Mindstorms robotics workshops
-- 🏆 Science fair & robotics competition mentoring
+- 💻 Website & mobile app optimization with TypeScript and Flutter
+- 🤖 Led LEGO Mindstorms robotics workshops
+- 🏆 Mentored students in science fairs & robotics competitions
 
 ### KNUST | Engineering Intern
-- ⚡ SMS-controlled flag system implementation
-- 📡 GSM module integration
-- 🔌 Motor wiring & Arduino programming
+- ⚡ Implemented SMS-controlled flag system
+- 📡 Integrated GSM module for wireless communication
+- 🔌 Specialized in motor wiring & Arduino programming
 
 </details>
 
-## 🚀 Featured Projects
+## プロジェクト | Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Cbowl - Decentralized Donations</h3>
+<h3 align="center">Fixit </h3>
 <div align="center">
-<a href="https://github.com/kwabena369" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=320&lines=Next.js;Firebase;QR+Payments;Ghana+Card+AI" alt="Project Tech Stack"/></a>
+<a href="https://github.com/kwabena369" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=320&lines=Next.js;Firebase;QR+Payments;Ejs,Nodejs" alt="Project Tech Stack"/></a>
 </div>
 </td>
 <td width="50%">
@@ -97,10 +105,10 @@ const education = {
 </tr>
 </table>
 
-## 🛠️ Tech Arsenal
+## 技術スタック | Tech Stack
 
 <details>
-<summary>Languages & Frameworks 💻</summary>
+<summary>言語とフレームワーク | Languages & Frameworks 💻</summary>
 
 ![Python](https://img.shields.io/badge/Python-A9B9CF?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-87A0B6?style=for-the-badge&logo=javascript&logoColor=black)
@@ -114,7 +122,7 @@ const education = {
 </details>
 
 <details>
-<summary>Tools & Platforms 🔧</summary>
+<summary>ツールとプラットフォーム | Tools & Platforms 🔧</summary>
 
 ![Arduino](https://img.shields.io/badge/Arduino-A9B9CF?style=for-the-badge&logo=arduino&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-87A0B6?style=for-the-badge&logo=firebase&logoColor=black)
@@ -127,7 +135,7 @@ const education = {
 
 </details>
 
-## 📊 GitHub Analytics
+## 統計 | GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwabena369&theme=dark&hide_border=true&background=0D1117&stroke=A9B9CF&ring=87A0B6&fire=6B8299&currStreakNum=A9B9CF&sideNums=A9B9CF&currStreakLabel=87A0B6&sideLabels=87A0B6&dates=6B8299" width="49%" />
@@ -137,7 +145,7 @@ const education = {
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=Open+to+Collaboration+and+New+Opportunities;Let's+Build+Something+Amazing+Together" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=協力の機会を探しています+|+Open+for+Collaboration;革新的なものを一緒に作りましょう+|+Let's+Create+Something+Innovative" alt="Typing SVG" />
 
-<sub>💼 Available for freelance projects and technical collaborations</sub>
+<sub>💼 フリーランスプロジェクト受付中 | Available for Freelance Projects</sub>
 </div>
