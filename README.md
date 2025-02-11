@@ -1,4 +1,3 @@
-```markdown
 # こんにちは 👋 I'm Bismark Kwabena Boampong
 
 ## 🌟 About Me
@@ -12,9 +11,9 @@ bismark = {
 ```
 
 ## 🤖 Robotics Journey
-- 3D Printing & CAD Design
-- Arduino and RaspberryPi Programming
-- Computer Vision Integration
+- **3D Printing & CAD Design**: Creating and prototyping custom robotic components and structures
+- **Arduino and RaspberryPi Programming**: Developing embedded systems and IoT solutions
+- **Computer Vision Integration**: Implementing advanced visual recognition systems
 
 ## 🛠️ Tech Stack 
 
@@ -45,16 +44,16 @@ bismark = {
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 📊 Projects Showcase
+## 📊 Featured Projects
 
-### 🏯 Featured Works
-- **Hand Gesture Recognition Game** - AI-powered gaming innovation
-- **Drone Development** - Custom UAV solutions with ESC integration
-- **TicketsROOM** - Modern event marketplace platform
-- **ISS & Mars Explorer** - Space exploration visualization
-- **SMS-controlled Flag System** - IoT automation with GSM
+### 🏯 Highlight Works
+- **Hand Gesture Recognition Game**: AI-powered gaming innovation using computer vision for intuitive gesture controls
+- **Drone Development**: Custom UAV solutions with integrated ESC systems and flight control
+- **TicketsROOM**: Modern event marketplace platform with secure payment processing
+- **ISS & Mars Explorer**: Interactive space exploration visualization platform
+- **SMS-controlled Flag System**: IoT automation system with GSM integration
 
-## 🎨 Recent Innovations
+## 🎨 GitHub Analytics
 
 <div align="center">
 
@@ -76,11 +75,11 @@ const experience = {
 }
 ```
 
-## 🎋 Let's Connect
+## 🎋 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bismark-kwabena-049a9b322/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bismarkkwabenaboampong@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kwabena369)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anotherone-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anotherone-one.vercel.app/)
 
 ---
 <div align="center">
@@ -90,4 +89,3 @@ const experience = {
 *Available for freelance projects and robotics collaborations*
 
 </div>
-```
