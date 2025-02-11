@@ -49,7 +49,8 @@ tech_profile = {
 ![Express](https://img.shields.io/badge/Express-687b8c?style=for-the-badge&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-536878?style=for-the-badge&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-445566?style=for-the-badge&logoColor=white)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-536878?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-445566?style=for-the-badge&logoColor=white)
 </details>
 
 <details>
@@ -57,8 +58,7 @@ tech_profile = {
 
 ![Arduino](https://img.shields.io/badge/Arduino-7c96ab?style=for-the-badge&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-687b8c?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-536878?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-445566?style=for-the-badge&logoColor=white)
+
 
 </details>
 
