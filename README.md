@@ -78,14 +78,6 @@ const education = {
 
 </details>
 
-## プロジェクト | Latest Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwabena369&repo=your-repo-1&theme=dark&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299&hide_border=true)](https://github.com/kwabena369/your-repo-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwabena369&repo=your-repo-2&theme=dark&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299&hide_border=true)](https://github.com/kwabena369/your-repo-2)
-
-</div>
 
 ## 技術スタック | Tech Stack
 
