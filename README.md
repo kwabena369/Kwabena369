@@ -101,14 +101,7 @@ const education = {
 
 </details>
 
-## 統計 | GitHub Stats
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kwabena369&theme=dark&hide_border=true&background=0D1117&stroke=A9B9CF&ring=87A0B6&fire=6B8299&currStreakNum=A9B9CF&sideNums=A9B9CF&currStreakLabel=87A0B6&sideLabels=87A0B6&dates=6B8299)](https://git.io/streak-stats)
-</div>
-
----
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=協力の機会を探しています+|+Open+for+Collaboration;革新的なものを一緒に作りましょう+|+Let's+Create+Something+Innovative" alt="Typing SVG" />
