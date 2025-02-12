@@ -106,9 +106,6 @@ const education = {
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kwabena369&theme=dark&hide_border=true&background=0D1117&stroke=A9B9CF&ring=87A0B6&fire=6B8299&currStreakNum=A9B9CF&sideNums=A9B9CF&currStreakLabel=87A0B6&sideLabels=87A0B6&dates=6B8299)](https://git.io/streak-stats)
-
-
-
 </div>
 
 ---
