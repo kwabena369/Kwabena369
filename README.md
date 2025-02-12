@@ -107,9 +107,7 @@ const education = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kwabena369&theme=dark&hide_border=true&background=0D1117&stroke=A9B9CF&ring=87A0B6&fire=6B8299&currStreakNum=A9B9CF&sideNums=A9B9CF&currStreakLabel=87A0B6&sideLabels=87A0B6&dates=6B8299)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwabena369&layout=compact&theme=dark&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Bismark's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwabena369&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
