@@ -2,13 +2,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B9CF&center=true&vCenter=true&width=940&lines=ようこそ+|+Bismark-san's+Digital+Dojo+⛩️" alt="Typing SVG" />
 
-```ascii
-  ___________________________
- |                           |
- |  はじめまして (Hajimemashite)  |
- |      私はBismarkです         |
- |___________________________|
-```
+
 
 <a href="https://anotherone-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-A9B9CF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
@@ -19,9 +13,7 @@
 <a href="https://www.linkedin.com/in/bismark-kwabena-049a9b322/">
     <img src="https://img.shields.io/badge/LinkedIn-6B8299?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
 </a>
-<a href="tel:+233551169697">
-    <img src="https://img.shields.io/badge/Call-526580?style=for-the-badge&logo=phone&logoColor=black" alt="Phone" />
-</a>
+
 
 </div>
 
@@ -48,7 +40,8 @@ const education = {
 
 <details>
 <summary>現在の役割 | Current Roles </summary>
-### FREELANCER
+  
+###  FREELANCER
 - 🌐 Developing custom web and mobile solutions
 - 🤖 Specializing in AI and robotics integration
 - 🔧 Hardware-software system development
