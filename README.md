@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=フリーランス+|+Freelance+Full+Stack+Developer;ロボット工学+|+Robotics+Engineer;教育者+|+STEM+Educator;革新者+|+Innovation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=志望+|+Aspiring+Full+Stack+Developer;志望+|+Aspiring+Robotics+Engineer;教育者+|+STEM+Educator;革新者+|+Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 学歴 | Education
@@ -47,9 +47,15 @@ const education = {
 ## 職歴 | Professional Journey
 
 <details>
-<summary>現在の役割 | Current Role 🚀</summary>
+<summary>現在の役割 | Current Roles 🚀</summary>
 
-### フリーランス | Freelance Full Stack Developer
+### Phronyltne Technologies | Full-Stack Developer
+- 🛍️ Developed high-performance POS system
+- 🔧 Implemented server optimization & maintenance
+- 🎮 Created 3D components using Blender
+- 🚁 Enhanced drone systems with brushless motors
+
+### Full Stack Developer & STEM Educator
 - 🌐 Developing custom web and mobile solutions
 - 🤖 Specializing in AI and robotics integration
 - 🔧 Hardware-software system development
@@ -72,38 +78,14 @@ const education = {
 
 </details>
 
-## プロジェクト | Projects
+## プロジェクト | Latest Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Fixit </h3>
 <div align="center">
-<a href="https://github.com/kwabena369" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=320&lines=Next.js;Firebase;QR+Payments;Ejs,Nodejs" alt="Project Tech Stack"/></a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwabena369&repo=your-repo-1&theme=dark&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299&hide_border=true)](https://github.com/kwabena369/your-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwabena369&repo=your-repo-2&theme=dark&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299&hide_border=true)](https://github.com/kwabena369/your-repo-2)
+
 </div>
-</td>
-<td width="50%">
-<h3 align="center">RouteTracker - GPS Navigation</h3>
-<div align="center">
-<a href="https://github.com/kwabena369" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=320&lines=Flutter;Real-time+GPS;Cloud+Firestore;Location+Services" alt="Project Tech Stack"/></a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">TicketsROOM - Event Platform</h3>
-<div align="center">
-<a href="https://github.com/kwabena369" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=320&lines=Next.js;TypeScript;PayStack;Redux" alt="Project Tech Stack"/></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Gesture Recognition Game</h3>
-<div align="center">
-<a href="https://github.com/kwabena369" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=320&lines=MediaPipe;OpenCV;Python;Real-time+Processing" alt="Project Tech Stack"/></a>
-</div>
-</td>
-</tr>
-</table>
 
 ## 技術スタック | Tech Stack
 
@@ -138,8 +120,13 @@ const education = {
 ## 統計 | GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwabena369&theme=dark&hide_border=true&background=0D1117&stroke=A9B9CF&ring=87A0B6&fire=6B8299&currStreakNum=A9B9CF&sideNums=A9B9CF&currStreakLabel=87A0B6&sideLabels=87A0B6&dates=6B8299" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=kwabena369&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299" width="49%" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kwabena369&theme=dark&hide_border=true&background=0D1117&stroke=A9B9CF&ring=87A0B6&fire=6B8299&currStreakNum=A9B9CF&sideNums=A9B9CF&currStreakLabel=87A0B6&sideLabels=87A0B6&dates=6B8299)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwabena369&layout=compact&theme=dark&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Bismark's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwabena369&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9B9CF&text_color=87A0B6&icon_color=6B8299)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
@@ -147,5 +134,5 @@ const education = {
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=協力の機会を探しています+|+Open+for+Collaboration;革新的なものを一緒に作りましょう+|+Let's+Create+Something+Innovative" alt="Typing SVG" />
 
-<sub>💼 フリーランスプロジェクト受付中 | Available for Freelance Projects</sub>
+<sub>💼 Passionate About Learning and Building Amazing Things</sub>
 </div>
