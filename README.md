@@ -47,15 +47,8 @@ const education = {
 ## 職歴 | Professional Journey
 
 <details>
-<summary>現在の役割 | Current Roles 🚀</summary>
-
-### Phronyltne Technologies | Full-Stack Developer
-- 🛍️ Developed high-performance POS system
-- 🔧 Implemented server optimization & maintenance
-- 🎮 Created 3D components using Blender
-- 🚁 Enhanced drone systems with brushless motors
-
-### Full Stack Developer & STEM Educator
+<summary>現在の役割 | Current Roles </summary>
+### FREELANCER
 - 🌐 Developing custom web and mobile solutions
 - 🤖 Specializing in AI and robotics integration
 - 🔧 Hardware-software system development
@@ -65,7 +58,13 @@ const education = {
 
 <details>
 <summary>過去の経験 | Previous Experience 📈</summary>
-
+  
+### Phronyltne Technologies | Full-Stack Developer
+- 🛍️ Developed high-performance POS system
+- 🔧 Implemented server optimization & maintenance
+- 🎮 Created 3D components using Blender
+- 🚁 Enhanced drone systems with brushless motors
+  
 ### KidAtHome | STEM Education Facilitator
 - 💻 Website & mobile app optimization with TypeScript and Flutter
 - 🤖 Led LEGO Mindstorms robotics workshops
