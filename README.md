@@ -1,110 +1,158 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9B9CF&center=true&vCenter=true&width=940&lines=ようこそ+|+Bismark-san's+Digital+Dojo+⛩️" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Bismark+👋;Building+the+Future+with+Code+🚀;Full+Stack+%7C+AI+%7C+Robotics+🤖" alt="Typing SVG" />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+### 🌟 Passionate Engineer | Creative Problem Solver | Tech Enthusiast
 
-<a href="https://anotherone-one.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-A9B9CF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-</a>
-<a href="mailto:bismarkkwabenaboampong@gmail.com">
-    <img src="https://img.shields.io/badge/Email-87A0B6?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/bismark-kwabena-049a9b322/">
-    <img src="https://img.shields.io/badge/LinkedIn-6B8299?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-</a>
-
+<p align="center">
+  <a href="https://anotherone-one.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-00D4FF?style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:bismarkkwabenaboampong@gmail.com"><img src="https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bismark-kwabena-049a9b322/"><img src="https://img.shields.io/badge/💼_LinkedIn-4ECDC4?style=for-the-badge&logoColor=white"/></a>
+</p>
 
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=志望+|+Aspiring+Full+Stack+Developer;志望+|+Aspiring+Robotics+Engineer;教育者+|+STEM+Educator;革新者+|+Innovation+Enthusiast" alt="Typing SVG" />
-</div>
+---
 
-## 学歴 | Education
+## 🎯 About Me
 
-```typescript
-const education = {
-    university: "Kwame Nkrumah University of Science and Technology",
-    degree: "BSc Electrical/Electronic Engineering",
-    period: "2019 - 2023",
-    highSchool: {
-        name: "Prempeh College",
-        program: "General Science",
-        period: "2016 - 2019"
-    }
-}
+```javascript
+const bismark = {
+    location: "Accra, Ghana 🇬🇭",
+    education: "BSc Electrical/Electronic Engineering @ KNUST",
+    currentFocus: ["Full Stack Development", "AI Integration", "Robotics"],
+    passions: ["Building Cool Stuff", "Teaching Tech", "Innovation"],
+    funFact: "I can make robots dance and websites sing! 🎵🤖"
+};
 ```
 
-## 職歴 | Professional Journey
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<details>
-<summary>現在の役割 | Current Roles </summary>
-  
-###  FREELANCER
-- 🌐 Developing custom web and mobile solutions
-- 🤖 Specializing in AI and robotics integration
-- 🔧 Hardware-software system development
-- 📊 Data-driven application architecture
+### 🚀 What I'm Up To
+- 🔭 Building innovative web applications with **Next.js** & **React**
+- 🤖 Exploring **AI/ML** integration in real-world projects  
+- 📱 Crafting mobile experiences with **Flutter**
+- ⚡ Tinkering with **Arduino** and **IoT** devices
+- 🎓 Sharing knowledge through **STEM education**
 
-</details>
+### 💡 My Philosophy
+*"Code is poetry, hardware is art, and innovation is the canvas where they meet."*
 
-<details>
-<summary>過去の経験 | Previous Experience 📈</summary>
-  
-### Phronyltne Technologies | Full-Stack Developer
-- 🛍️ Developed high-performance POS system
-- 🔧 Implemented server optimization & maintenance
-- 🎮 Created 3D components using Blender
-- 🚁 Enhanced drone systems with brushless motors
-  
-### KidAtHome | STEM Education Facilitator
-- 💻 Website & mobile app optimization with TypeScript and Flutter
-- 🤖 Led LEGO Mindstorms robotics workshops
-- 🏆 Mentored students in science fairs & robotics competitions
+---
 
-### KNUST | Engineering Intern
-- ⚡ Implemented SMS-controlled flag system
-- 📡 Integrated GSM module for wireless communication
-- 🔌 Specialized in motor wiring & Arduino programming
-
-</details>
-
-
-## 技術スタック | Tech Stack
-
-<details>
-<summary>言語とフレームワーク | Languages & Frameworks 💻</summary>
-
-![Python](https://img.shields.io/badge/Python-A9B9CF?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-87A0B6?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-6B8299?style=for-the-badge&logo=typescript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-526580?style=for-the-badge&logo=cplusplus&logoColor=black)
-![React](https://img.shields.io/badge/React-A9B9CF?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-87A0B6?style=for-the-badge&logo=next.js&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-6B8299?style=for-the-badge&logo=vue.js&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-526580?style=for-the-badge&logo=flutter&logoColor=black)
-
-</details>
-
-<details>
-<summary>ツールとプラットフォーム | Tools & Platforms 🔧</summary>
-
-![Arduino](https://img.shields.io/badge/Arduino-A9B9CF?style=for-the-badge&logo=arduino&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-87A0B6?style=for-the-badge&logo=firebase&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-6B8299?style=for-the-badge&logo=opencv&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-526580?style=for-the-badge&logo=tensorflow&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-A9B9CF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-87A0B6?style=for-the-badge&logo=github&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-6B8299?style=for-the-badge&logo=blender&logoColor=black)
-![PayStack](https://img.shields.io/badge/PayStack-526580?style=for-the-badge&logo=stripe&logoColor=black)
-
-</details>
-
-
+## 🛠️ Tech Arsenal
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A9B9CF&center=true&vCenter=true&width=640&lines=協力の機会を探しています+|+Open+for+Collaboration;革新的なものを一緒に作りましょう+|+Let's+Create+Something+Innovative" alt="Typing SVG" />
 
-<sub>💼 Passionate About Learning and Building Amazing Things</sub>
+### Languages I Speak
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frontend Magic
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Data
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Hardware & Robotics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+### 🌟 Gob3 - Affiliate Marketing Platform
+[![](https://img.shields.io/badge/🔗_Live_Demo-00D4FF?style=for-the-badge)](https://mybuddy-sable.vercel.app/)
+[![](https://img.shields.io/badge/💻_Code-4ECDC4?style=for-the-badge)](#)
+
+*Full-stack platform connecting product owners with affiliates through commission-based sales*
+- **Tech**: Next.js, Python, MongoDB, Paystack, Zustand
+- **Features**: QR payments, real-time tracking, automated commissions
+
+### 🤝 Chowl - Decentralized Donations
+[![](https://img.shields.io/badge/🔗_Explore-FF6B6B?style=for-the-badge)](#)
+
+*Revolutionary donation platform with Ghana Card verification*
+- **Tech**: Next.js, Firebase, Redux, AI Model
+- **Features**: QR payments, identity verification, no signup required
+
+### 🙏 AI Sermon Assistant
+[![](https://img.shields.io/badge/🔗_Demo-45B7D1?style=for-the-badge)](#)
+
+*Real-time Bible verse recommendations during live sermons*
+- **Tech**: Gemini API, Speech Recognition, Clean UI
+- **Features**: Live audio processing, scripture matching, intuitive design
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bismarkboampong&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=4ECDC4" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismarkboampong&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bismarkboampong&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=4ECDC4&fire=FF6B6B&currStreakLabel=00D4FF" />
+</div>
+
+---
+
+## 🌈 Fun Zone
+
+<div align="center">
+
+### 🎲 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Watch My Contributions Get Eaten!
+![Snake animation](https://github.com/bismarkboampong/bismarkboampong/blob/output/github-contribution-grid-snake.svg)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bismarkboampong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Always+open+to+collaborate+%F0%9F%A4%9D;Let's+turn+ideas+into+reality+%F0%9F%92%A1;The+future+is+what+we+build+today+%F0%9F%9A%80" alt="Typing SVG" />
+
+**⭐ Star my repos if you find them interesting!**  
+**🍴 Fork them to make them even better!**  
+**💬 Reach out for collaborations or just to say hi!**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+<sub>💙 Made with love and lots of coffee ☕</sub>
 </div>
