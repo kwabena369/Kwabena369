@@ -22,7 +22,6 @@
 const bismark = {
     education: "BSc Electrical/Electronic Engineering @ KNUST",
     currentFocus: ["Full Stack Development", "AI Integration", "Robotics"],
-    passions: ["Building Cool Stuff", "Teaching Tech", "Innovation"],
     funFact: "I hack electronics for fun and make beats in my free time! 🎵"
 };
 ```
